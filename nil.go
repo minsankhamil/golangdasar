@@ -19,4 +19,5 @@ func main() {
 	} else {
 		fmt.Println(data)
 	}
+	fmt.Println(data)
 }
